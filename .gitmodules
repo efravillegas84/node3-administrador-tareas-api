@@ -1,6 +1,0 @@
-[submodule "config"]
-	path = config
-	url = https://github.com/efravillegas84/node3-administrador-tareas-api-conf.git
-[submodule "tests"]
-	path = tests
-	url = https://github.com/efravillegas84/node3-administrador-tareas-api-test.git
